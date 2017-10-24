@@ -1,7 +1,5 @@
 package TVremote;
 
-import javax.print.attribute.standard.Severity;
-
 public abstract class EntertainmentDevice {
     public int deviceState;
     public int maxSetting;
